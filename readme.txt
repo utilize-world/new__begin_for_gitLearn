@@ -1,4 +1,5 @@
 this is a test text.
 Git is a free software.
 lets create a new branch！
-create conflict test
+lets test branch conflict！
+
